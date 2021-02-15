@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\ahemaid\source\repos\FactoryPatterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
